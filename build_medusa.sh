@@ -24,7 +24,7 @@ export LOCALVERSION=$VERSION
 
 # Export Username and machine name
 export KBUILD_BUILD_USER=Batu33TR
-export KBUILD_BUILD_HOST=Batu33TR-Server
+export KBUILD_BUILD_HOST=ProjectMedusa
 
 # Color definition
 red=`tput setaf 1`
